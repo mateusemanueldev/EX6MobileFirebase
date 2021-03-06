@@ -1,0 +1,12 @@
+{
+  "name": "firebase",
+  "displayName": "firebase",
+  "expo": {
+    "name": "firebase",
+    "slug": "firebase",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
